@@ -1,0 +1,5 @@
+To get started:
+
+host$ vagrant ssh
+guest$ /vagrant/bin/spark-shell
+
