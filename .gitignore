@@ -2,3 +2,4 @@
 .vagrant/
 spark-1.3.0-bin-hadoop2.4.tgz
 spark-1.3.0-bin-hadoop2.4/
+data
